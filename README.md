@@ -9,6 +9,6 @@ Seja com uma folha de caderno, um pedaço qualquer de papel, em uma lousa de giz
 
 Esta aqui é a nossa versão digital deste jogo clássico.
 
-![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_1.PNG)      ![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_2.PNG)      ![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_3.PNG)
+![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_1.PNG)      ![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_2.PNG)      ![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_3.PNG)      ![N|Solid](https://github.com/GiovaniJau/Jogo_Da_Velha/blob/master/screenshots/velha_4.PNG)
 
 No final de nossa aula teremos alguns **_ajustes_** que serão propostos na forma de desafios, para melhorar o nosso App e deixá-lo mais funcional.
